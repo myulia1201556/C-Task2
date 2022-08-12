@@ -4,7 +4,6 @@
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
-// Console.Clear();
 
 // Console.WriteLine("Введите координаты для точки A: ");
 // Console.Write("Введите х: ");
@@ -25,7 +24,6 @@
 // double result = Math.Sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2) + (z1 - z2) * (z1 - z2));
 
 // Console.WriteLine(Math.Round(result,2));
-
 
 
 Console.WriteLine("Введите координаты для точки A: ");
